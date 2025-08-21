@@ -66,7 +66,7 @@ export default function ContactUs() {
         <div className="text-center mb-12">
           <h1 className="text-4xl font-bold tracking-tight mb-4">Get in Touch</h1>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Ready to harness the power of AI? Let's discuss how Rational IT Services can build intelligent solutions for
+            Ready to harness the power of AI? Let&apos;s discuss how Rational IT Services can build intelligent solutions for
             your business.
           </p>
         </div>
@@ -119,7 +119,7 @@ export default function ContactUs() {
               <CardHeader>
                 <CardTitle className="text-2xl">Send us a Message</CardTitle>
                 <p className="text-muted-foreground">
-                  Fill out the form below and we'll get back to you within 24 hours.
+                  Fill out the form below and we&apos;ll get back to you within 24 hours.
                 </p>
               </CardHeader>
               <CardContent>

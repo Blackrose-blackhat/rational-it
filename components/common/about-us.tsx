@@ -1,7 +1,7 @@
 "use client";
 
 import { Card, CardContent } from "../ui/card";
-import { Brain, Target, Rocket } from "lucide-react";
+import { Brain,  Rocket } from "lucide-react";
 
 export default function AboutUs() {
     return (

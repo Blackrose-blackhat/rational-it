@@ -1,5 +1,5 @@
 import { PulsingBorder } from "@paper-design/shaders-react"
-
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 export default function PulsingBorderShader(props:any) {
   return (
     <PulsingBorder

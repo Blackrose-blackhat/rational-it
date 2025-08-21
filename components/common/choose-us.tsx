@@ -1,6 +1,6 @@
 "use client";
 
-import { motion } from "framer-motion";
+
 import PulsingBorderShader from "../ui/pulsing-border";
 import { Tiles } from "@/components/ui/tiles"; // adjust path if needed
 
