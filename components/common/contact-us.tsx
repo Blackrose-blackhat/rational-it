@@ -75,7 +75,7 @@ export default function ContactUs() {
           {/* Left side: Map + Info */}
           <div className="order-2 lg:order-1">
             <Card className="overflow-hidden shadow-lg">
-              <div className="h-[400px] w-full">
+              <div className="h-[400px] w-full z-0">
                 <MapComponent />
               </div>
             </Card>

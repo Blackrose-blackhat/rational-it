@@ -10,7 +10,7 @@ export default function PulsingBorderShader(props:any) {
       thickness={0.05}
       softness={0.1}
       intensity={1}
-      spotsPerColor={5}
+  
       spotSize={0.1}
       pulse={0.2}
       smoke={0.5}

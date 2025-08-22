@@ -12,16 +12,18 @@ import { UseCasesSection } from "@/components/common/use-cases";
 export default function Home() {
   return (
     <main>
-      <Navbar />
-      <Hero />
-      
-      <AboutUs />
-      <Services />
-      <IndustriesWeServe />
-      <UseCasesSection />
-      <WhyChooseUs />
-      <ContactUs />
-      <Footer />
-    </main>
+  <Navbar />
+  <div className="pt-16 md:pt-20 lg:pt-24 space-y-12 md:space-y-16">
+    <Hero />
+    <AboutUs />
+    <Services />
+    <IndustriesWeServe />
+    <UseCasesSection />
+    <WhyChooseUs />
+    <ContactUs />
+    <Footer />
+  </div>
+</main>
+
   );
 }
